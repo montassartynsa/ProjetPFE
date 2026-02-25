@@ -1,0 +1,98 @@
+{
+  "summary": {
+    "high_risk_count": 108,
+    "medium_risk_count": 2266,
+    "low_risk_count": 843,
+    "total_active_claims": 3217,
+    "estimated_delayed_claims": 1305.96875,
+    "estimated_total_delay_days": 25980,
+    "avg_predicted_delay_days": 8.075847062480571,
+    "estimated_cost_impact": 2528361.4537593005,
+    "avg_cost_per_delayed_claim": 2919.585974317899,
+    "recommended_staff": 90,
+    "projection_month": 3
+  },
+  "high_risk_claims": [
+    {
+      "claim_id": "CLM-E02A190A",
+      "delay_probability": 0.917235255241394,
+      "client_id": "CLI-3C0A009F",
+      "contract_id": "CON-D852BD94",
+      "predicted_delay_days": 30
+    },
+    {
+      "claim_id": "CLM-6665F880",
+      "delay_probability": 0.8885354399681091,
+      "client_id": "CLI-129E2A68",
+      "contract_id": "CON-7CAA8509",
+      "predicted_delay_days": 30
+    },
+    {
+      "claim_id": "CLM-F619ECC0",
+      "delay_probability": 0.8873427510261536,
+      "client_id": "CLI-C7D5C437",
+      "contract_id": "CON-BA313E66",
+      "predicted_delay_days": 30
+    },
+    {
+      "claim_id": "CLM-D30BFF48",
+      "delay_probability": 0.8821347951889038,
+      "client_id": "CLI-6ADDBCD4",
+      "contract_id": "CON-D70D05E3",
+      "predicted_delay_days": 30
+    },
+    {
+      "claim_id": "CLM-47EFB15D",
+      "delay_probability": 0.8663108348846436,
+      "client_id": "CLI-AE4B2DCF",
+      "contract_id": "CON-1FC5827E",
+      "predicted_delay_days": 30
+    },
+    {
+      "claim_id": "CLM-D2A91A92",
+      "delay_probability": 0.8593095541000366,
+      "client_id": "CLI-D8A4377B",
+      "contract_id": "CON-661FC51D",
+      "predicted_delay_days": 30
+    },
+    {
+      "claim_id": "NCLM-A7B8634A",
+      "delay_probability": 0.856035590171814,
+      "client_id": "NCLI-A50A7ABB",
+      "contract_id": "NCON-E39DAAA2",
+      "predicted_delay_days": 30
+    },
+    {
+      "claim_id": "CLM-DCC26EEF",
+      "delay_probability": 0.8559181094169617,
+      "client_id": "CLI-6A40B424",
+      "contract_id": "CON-3A2BECE0",
+      "predicted_delay_days": 30
+    },
+    {
+      "claim_id": "NCLM-AC084C58",
+      "delay_probability": 0.8077078461647034,
+      "client_id": "NCLI-543D586F",
+      "contract_id": "NCON-D4D41AAB",
+      "predicted_delay_days": 30
+    },
+    {
+      "claim_id": "CLM-40E8D5A6",
+      "delay_probability": 0.8028295040130615,
+      "client_id": "CLI-DE4BEED4",
+      "contract_id": "CON-991C9411",
+      "predicted_delay_days": 30
+    }
+  ],
+  "risk_distribution": {
+    "Medium": 2266,
+    "Low": 843,
+    "High": 108
+  },
+  "monthly_projection": {
+    "month": 3,
+    "estimated_delays": 1305.96875,
+    "cost_impact": 2528361.4537593005,
+    "staff_needed": 90
+  }
+}
